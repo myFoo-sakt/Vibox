@@ -6,8 +6,7 @@ Please try not to spread it.
 なるべく広めないで。
 Ask for the password
 
-setup
-
+・setup
 download file
 next
 download file in folder
@@ -15,3 +14,7 @@ next
 open download file to Browser
 next
 Add page to favorites
+
+・About updates
+It won't work unless you update it once a month.
+月に一回のアップデートをしないと動作しません
