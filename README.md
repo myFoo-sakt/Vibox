@@ -1,4 +1,4 @@
-# Vibox
+# Hyper Webview
 
 Webview UltraはViboxにリニューアルされました。
 以前配信したWebview Ultraは１２月で利用できなくなります。
